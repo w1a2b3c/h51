@@ -1,7 +1,4 @@
-<?php
-require '../Mao/common.php';
-if($islogin==1){}else exit("<script language='javascript'>window.location.href='login.php';</script>");
-?>
+
 <!DOCTYPE html>
 <html>
 <head>
