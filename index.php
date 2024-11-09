@@ -1,7 +1,4 @@
-<?php
-if(!file_exists('./install/install.lock')) exit('<script>location="./install";</script>');
-require './Mao/common.php';
-?>
+
 <!DOCTYPE html>
 <html>
 <head>
